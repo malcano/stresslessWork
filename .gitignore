@@ -5,3 +5,5 @@
 *.mp4
 *.jpg
 *.png
+.idea
+.gradle
